@@ -40,3 +40,4 @@ export const fetchData = () => {
 }
 
 export default dataSlice.reducer
+//Was already filled out
